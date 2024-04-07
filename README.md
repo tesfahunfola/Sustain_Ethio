@@ -8,7 +8,7 @@ The SustainEthio platform is a groundbreaking initiative dedicated to wildlife c
 
 To run the SustainEthio platform locally on your machine, follow these steps:
 
-1. Clone the repository to your local machine.      [git clone https//github.com/tesfahunfola/SustainEthio.git](http://git clone https//github.com/tesfahunfola/SustainEthio.git)
+1. Clone the repository to your local machine.      [git clone https//github.com/tesfahunfola/SustainEthio.git]
 2. Navigate to the project directory.
 3. Open index.html in your preferred web browser to access the website.
 
