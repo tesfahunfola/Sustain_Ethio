@@ -26,7 +26,6 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ![Screenshot 2024-04-07 203615](https://github.com/tesfahunfola/Sustain_Ethio/assets/122350783/36983a1b-8733-4f3a-993b-e041ae555e04)
 
-**Live:** SustainEthio
 
 **Contact**
 
